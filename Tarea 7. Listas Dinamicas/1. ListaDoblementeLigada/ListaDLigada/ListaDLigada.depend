@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1668493219 source:d:\alvaro\desktop\clases 2022b\seminario estructura de datos\tarea 7. listas dinamicas\1. listadoblementeligada\listadligada\socio.cpp
+	"Socio.h"
+
+1668493236 d:\alvaro\desktop\clases 2022b\seminario estructura de datos\tarea 7. listas dinamicas\1. listadoblementeligada\listadligada\socio.h
+	<iostream>
+
+1668493350 source:d:\alvaro\desktop\clases 2022b\seminario estructura de datos\tarea 7. listas dinamicas\1. listadoblementeligada\listadligada\main.cpp
+	<iostream>
+	"Socio.h"
+	"excepciones.hpp"
+	"Lista.h"
+
+1668493331 d:\alvaro\desktop\clases 2022b\seminario estructura de datos\tarea 7. listas dinamicas\1. listadoblementeligada\listadligada\excepciones.hpp
+
+1668493336 d:\alvaro\desktop\clases 2022b\seminario estructura de datos\tarea 7. listas dinamicas\1. listadoblementeligada\listadligada\lista.h
+	<iostream>
+	"excepciones.hpp"
+	"Socio.h"
+

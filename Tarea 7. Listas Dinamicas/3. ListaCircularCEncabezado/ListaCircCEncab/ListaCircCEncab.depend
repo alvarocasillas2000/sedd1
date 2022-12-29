@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1668493219 source:d:\alvaro\desktop\clases 2022b\seminario estructura de datos\tarea 7. listas dinamicas\3. listacircularcencabezado\listacirccencab\socio.cpp
+	"Socio.h"
+
+1668493236 d:\alvaro\desktop\clases 2022b\seminario estructura de datos\tarea 7. listas dinamicas\3. listacircularcencabezado\listacirccencab\socio.h
+	<iostream>
+
+1668528961 source:d:\alvaro\desktop\clases 2022b\seminario estructura de datos\tarea 7. listas dinamicas\3. listacircularcencabezado\listacirccencab\main.cpp
+	<iostream>
+	"Socio.h"
+	"excepciones.hpp"
+	"Lista.h"
+
+1668493331 d:\alvaro\desktop\clases 2022b\seminario estructura de datos\tarea 7. listas dinamicas\3. listacircularcencabezado\listacirccencab\excepciones.hpp
+
+1668530027 d:\alvaro\desktop\clases 2022b\seminario estructura de datos\tarea 7. listas dinamicas\3. listacircularcencabezado\listacirccencab\lista.h
+	<iostream>
+	"excepciones.hpp"
+	"Socio.h"
+

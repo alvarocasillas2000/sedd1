@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1667924625 source:d:\alvaro\desktop\clases 2022b\estructura de datos\archivos\tarea6\main.cpp
+	<iostream>
+	"Socio.h"
+	"listexception.hpp"
+	"Lista.h"
+	"Menu.h"
+
+1667924250 source:d:\alvaro\desktop\clases 2022b\estructura de datos\archivos\tarea6\socio.cpp
+	"Socio.h"
+
+1667880832 d:\alvaro\desktop\clases 2022b\estructura de datos\archivos\tarea6\socio.h
+	<iostream>
+
+1667923593 source:d:\alvaro\desktop\clases 2022b\estructura de datos\archivos\tarea6\lista.cpp
+	<iostream>
+	"Lista.h"
+
+1667923593 d:\alvaro\desktop\clases 2022b\estructura de datos\archivos\tarea6\lista.h
+	<iostream>
+	"listexception.hpp"
+	"Socio.h"
+
+1667894339 d:\alvaro\desktop\clases 2022b\estructura de datos\archivos\tarea6\listexception.hpp
+
+1667922117 source:d:\alvaro\desktop\clases 2022b\estructura de datos\archivos\tarea6\menu.cpp
+	<iostream>
+	"Menu.h"
+	"Socio.h"
+	"Lista.h"
+	"listexception.hpp"
+
+1667900158 d:\alvaro\desktop\clases 2022b\estructura de datos\archivos\tarea6\menu.h
+	"Socio.h"
+	"Lista.h"
+
+1667923593 source:d:\alvaro\desktop\clases 2022b\seminario estructura de datos\tarea 6. lista simple ligada\tarea6\lista.cpp
+	<iostream>
+	"Lista.h"
+
+1667923593 d:\alvaro\desktop\clases 2022b\seminario estructura de datos\tarea 6. lista simple ligada\tarea6\lista.h
+	<iostream>
+	"listexception.hpp"
+	"Socio.h"
+
+1667894339 d:\alvaro\desktop\clases 2022b\seminario estructura de datos\tarea 6. lista simple ligada\tarea6\listexception.hpp
+
+1668493075 d:\alvaro\desktop\clases 2022b\seminario estructura de datos\tarea 6. lista simple ligada\tarea6\socio.h
+
+1667924625 source:d:\alvaro\desktop\clases 2022b\seminario estructura de datos\tarea 6. lista simple ligada\tarea6\main.cpp
+	<iostream>
+	"Socio.h"
+	"listexception.hpp"
+	"Lista.h"
+	"Menu.h"
+
+1667900158 d:\alvaro\desktop\clases 2022b\seminario estructura de datos\tarea 6. lista simple ligada\tarea6\menu.h
+	"Socio.h"
+	"Lista.h"
+
+1667922117 source:d:\alvaro\desktop\clases 2022b\seminario estructura de datos\tarea 6. lista simple ligada\tarea6\menu.cpp
+	<iostream>
+	"Menu.h"
+	"Socio.h"
+	"Lista.h"
+	"listexception.hpp"
+
+1667924250 source:d:\alvaro\desktop\clases 2022b\seminario estructura de datos\tarea 6. lista simple ligada\tarea6\socio.cpp
+	"Socio.h"
+
