@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1665069468 source:d:\alvaro\desktop\clases 2022b\seminario estructura de datos\tarea 4. pilas\pilas\main.cpp
+	<iostream>
+	"Stack.h"
+	"Queue.h"
+	"StackFloat.h"
+
+1664674723 source:d:\alvaro\desktop\clases 2022b\seminario estructura de datos\tarea 4. pilas\pilas\src\stack.cpp
+	"Stack.h"
+
+1664689503 d:\alvaro\desktop\clases 2022b\seminario estructura de datos\tarea 4. pilas\pilas\include\stack.h
+
+1664675626 source:d:\alvaro\desktop\clases 2022b\seminario estructura de datos\tarea 4. pilas\pilas\src\queue.cpp
+	"Queue.h"
+
+1664685197 d:\alvaro\desktop\clases 2022b\seminario estructura de datos\tarea 4. pilas\pilas\include\queue.h
+	<iostream>
+
+1664686624 source:d:\alvaro\desktop\clases 2022b\seminario estructura de datos\tarea 4. pilas\pilas\ejemplo.cpp
+	<iostream>
+	"Stack.h"
+	"Queue.h"
+
+1664691739 source:d:\alvaro\desktop\clases 2022b\seminario estructura de datos\tarea 4. pilas\pilas\src\stackfloat.cpp
+	"StackFloat.h"
+
+1664691817 d:\alvaro\desktop\clases 2022b\seminario estructura de datos\tarea 4. pilas\pilas\include\stackfloat.h
+

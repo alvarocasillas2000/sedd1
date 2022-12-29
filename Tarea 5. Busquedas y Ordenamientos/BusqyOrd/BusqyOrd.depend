@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1665676059 source:c:\users\usuario\desktop\nueva carpeta (2)\busqyord\main.cpp
+	<iostream>
+	<Lista.h>
+
+1665500026 source:c:\users\usuario\desktop\nueva carpeta (2)\busqyord\src\lista.cpp
+	"Lista.h"
+
+1665676438 c:\users\usuario\desktop\nueva carpeta (2)\busqyord\include\lista.h
+	<iostream>
+	<exception>
+
+1666106764 source:d:\alvaro\desktop\clases 2022b\seminario estructura de datos\tarea 5. busquedas y ordenamientos\busqyord\main.cpp
+	<iostream>
+	<Lista.h>
+
+1666106948 d:\alvaro\desktop\clases 2022b\seminario estructura de datos\tarea 5. busquedas y ordenamientos\busqyord\include\lista.h
+	<iostream>
+	<exception>
+
+1665492826 source:d:\alvaro\desktop\clases 2022b\seminario estructura de datos\tarea 5. busquedas y ordenamientos\busqyord\src\lista.cpp
+	"Lista.h"
+

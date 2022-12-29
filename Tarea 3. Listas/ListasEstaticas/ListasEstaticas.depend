@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1663481679 source:d:\alvaro\desktop\clases 2022b\seminario estructura de datos\tarea 2\code\listasestaticas\main.cpp
+	<iostream>
+	"listae.h"
+	"GatoDomestico.h"
+
+1663481880 d:\alvaro\desktop\clases 2022b\seminario estructura de datos\tarea 2\code\listasestaticas\include\listae.h
+
+1663478397 d:\alvaro\desktop\clases 2022b\seminario estructura de datos\tarea 2\code\listasestaticas\include\gatodomestico.h
+
+1663478397 source:d:\alvaro\desktop\clases 2022b\seminario estructura de datos\tarea 2\code\listasestaticas\src\gatodomestico.cpp
+	"GatoDomestico.h"
+
+1664294914 source:d:\alvaro\desktop\clases 2022b\seminario estructura de datos\tarea 3\listasestaticas\main.cpp
+	<iostream>
+	"listae.h"
+	"GatoDomestico.h"
+
+1664301724 d:\alvaro\desktop\clases 2022b\seminario estructura de datos\tarea 3\listasestaticas\include\listae.h
+	<iostream>
+	<string>
+	"Gato.h"
+
+1663654549 d:\alvaro\desktop\clases 2022b\seminario estructura de datos\tarea 3\listasestaticas\include\gatodomestico.h
+
+1664157576 d:\alvaro\desktop\clases 2022b\seminario estructura de datos\tarea 3\listasestaticas\include\mamifero.h
+	<iostream>
+	<string>
+
+1663654584 source:d:\alvaro\desktop\clases 2022b\seminario estructura de datos\tarea 3\listasestaticas\src\mamifero.cpp
+	"Mamifero.h"
+
+1664292205 source:d:\alvaro\desktop\clases 2022b\seminario estructura de datos\tarea 3\listasestaticas\src\gato.cpp
+	"Gato.h"
+
+1664301623 d:\alvaro\desktop\clases 2022b\seminario estructura de datos\tarea 3\listasestaticas\include\gato.h
+	<string>
+	<iostream>
+
+1664294914 source:d:\alvaro\desktop\clases 2022b\seminario estructura de datos\tarea 3\listasestaticas\src\listae.cpp
+	<iostream>
+	"listae.h"
+	"Gato.h"
+
