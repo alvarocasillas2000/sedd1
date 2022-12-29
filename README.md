@@ -2,7 +2,7 @@
 Estructuras de Datos - Seminario
 
 
-####Trabajos de Seminario de Estructuras de Datos
+##Trabajos de Seminario de Estructuras de Datos
 
 Cucei 2022
 
